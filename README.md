@@ -1,4 +1,4 @@
-### Arabic SMS Project Detection
+# Arabic SMS Project Detection
 This project aims to detect and classify short text messages (SMS) written in Arabic. It utilizes machine learning techniques, including translation, pre-trained models, and deep learning algorithms, to achieve accurate classification results.
 
 ## Introduction
